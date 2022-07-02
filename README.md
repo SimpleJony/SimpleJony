@@ -13,4 +13,4 @@
 [![Ubuntu 20.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)<br>
 
 ## 📱 Devices in use
-[![Redmi K30 4G](https://img.shields.io/badge/Redmi%20K30%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)]
+[![Redmi K30 4G](https://img.shields.io/badge/Redmi%20K30%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)<br>
