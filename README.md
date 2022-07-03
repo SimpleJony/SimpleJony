@@ -15,6 +15,7 @@
 
 ## 📱 Devices in use
 [![Redmi K30 4G](https://img.shields.io/badge/Redmi%20K30%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)<br>
+[![Redmi 7](https://img.shields.io/badge/Redmi%207-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)<br>
 
 ## ☎️ Get in touch
 [![Telegram](https://img.shields.io/badge/Telegram-JonyWinner-blue)](https://t.me/JonyWinner)<br>
