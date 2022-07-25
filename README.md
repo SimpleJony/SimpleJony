@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Jony
-- 🌱 I’m learning C language 
+- 🌱 I’m learning Java
 - ☘️ I love coding!
 - 🌸 If you can dream it, you can do it!
 
