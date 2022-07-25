@@ -4,7 +4,6 @@
 - 🌸 If you can dream it, you can do it!
 
 ![SimpleJony's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimpleJony&show_icons=true&theme=vue&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleJony&layout=compact)](https://github.com/SimpleJony/C-Learning)
 
 ## 🤔 What I'm doing
 - Learning C language
