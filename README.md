@@ -6,7 +6,7 @@
 ![SimpleJony's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimpleJony&show_icons=true&theme=vue&count_private=true)
 
 ## 🤔 What I'm doing
-- Learning C language
+- Learning Java
 
 ## 💻 Working environment
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)<br>
