@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jony
 - 🌱 I’m learning Java
 - ☘️ I love coding!
-- 🌸 If you can dream it, you can do it!
+- 🌸 如果你先醒了，记得叫我，别留我一个人在梦里
 
 ![SimpleJony's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimpleJony&show_icons=true&theme=vue&count_private=true)
 
