@@ -4,7 +4,7 @@
 - 🌸 如果你先醒了，记得叫我，别留我一个人在梦里
 
 ![SimpleJony's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimpleJony&show_icons=true&theme=vue&count_private=true)
-![View Counter](https://komarev.com/ghpvc/?username=SimpleJony&color=red)
+![View Counter](https://komarev.com/ghpvc/?username=SimpleJony&color=red)<br>
 
 ## 🤔 What I'm doing
 - Learning Java
