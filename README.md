@@ -5,6 +5,7 @@
 
 ![SimpleJony's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimpleJony&show_icons=true&theme=vue&count_private=true)<br>
 
+# Viewer count
 ![](https://count.getloli.com/get/@SimpleJony.github.readme)
 
 ## 🤔 What I'm doing
