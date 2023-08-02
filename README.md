@@ -8,7 +8,7 @@
 ![](https://count.getloli.com/get/@SimpleJony.github.readme)
 
 ## 🤔 What I'm doing
-- Learning Java
+- Learning C++
 
 ## 💻 Working environment
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)<br>
