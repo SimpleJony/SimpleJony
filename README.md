@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Jony
-- 🌱 I’m learning Java
+- 🌱 I’m learning C++
 - ☘️ I love coding!
 - 🌸 如果你先醒了，记得叫我，别留我一个人在梦里
 
