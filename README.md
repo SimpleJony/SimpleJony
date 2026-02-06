@@ -2,7 +2,10 @@
 - 🌱 I’m learning C++ and 51
 - 🌸 「夢のように愛して, 愛のように夢をみて」
 
-![SimpleJony's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimpleJony&show_icons=true&theme=vue&count_private=true)<br>
+<p align="left">
+  <!-- 注意路径：./profile/stats.svg -->
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
 
 ## ☘️What am i listening
 ![card](https://github.com/SimpleJony/netease-cloud-music-card/blob/main/card.svg)
