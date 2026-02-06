@@ -1,0 +1,48 @@
+name: Update Readme Stats
+
+on:
+  schedule:
+    # 每天世界标准时间 0 点运行一次 (北京时间早上 8 点)
+    - cron: '0 0 * * *'
+  # 允许手动触发 (在 Actions 页面点击 Run workflow)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 必须有写入权限才能提交生成的图片
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 1. 生成基础统计卡片 (Stats Card)
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: 'stats'
+          token: ${{ secrets.PAT_TOKEN }} # 如果需要统计私有仓库，请取消注释并使用 PAT
+          # 你的参数写在这里，和 URL 里的参数一样，用 & 连接，或者 JSON 格式
+          # 比如: theme=radical&hide=stars
+          options: 'username=${{ github.repository_owner }}&theme=radical&show_icons=true&hide_border=true&count_private=true'
+          path: 'profile/stats.svg' # 图片保存路径
+
+      # 2. 生成常用语言卡片 (Top Langs Card) - 可选
+      - name: Generate Top Langs Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: 'top-langs'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: 'username=${{ github.repository_owner }}&theme=radical&layout=compact&hide_border=true'
+          path: 'profile/top-langs.svg'
+
+      # 3. 提交生成的图片到仓库
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          # 如果图片没变化，就不提交，避免报错
+          git commit -m "Update GitHub Stats" || exit 0
+          git push
